@@ -1,0 +1,22 @@
+# Secrets
+.env
+**/.env
+
+# Virtual environments
+.venv/
+venv/
+
+# Google ADK local data
+.adk/
+**/.adk/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
